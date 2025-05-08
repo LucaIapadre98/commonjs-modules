@@ -1,8 +1,9 @@
 const {names} = require("./names");
 const{hobbys} = require("./hobbies");
 
-//console.log(names);
-//console.log(hobbys);
+console.log(names);
+console.log(hobbys);
+
 
 function final () {
     const namesHobbys = {
